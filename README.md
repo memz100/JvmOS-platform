@@ -1,3 +1,1 @@
-HELLO!
-welcome to the operating system!
-i will be doing updates frequently
+hello! this is the JvmOS platform, which is pretty costumizable. 
